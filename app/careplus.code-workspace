@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "careplus",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../Downloads/carepulse_public/public"
+		}
+	],
+	"settings": {}
+}
